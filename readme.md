@@ -37,5 +37,5 @@ The following guides illustrate how to use some features concretely:
 *  void ZeroDollarPurchaseShouldCreateZeroPoint()
 *  void NegativeDollarPurchaseShouldCreateIllegalArgumentException()
 
-# Sample-Work
-# Sample-Work
+# Developed By Bilal Ishaq ishaq.bilal@gmail.com (669-288-4121) 
+# https://www.linkedin.com/in/bilalishaq/

@@ -14,6 +14,10 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
+/**
+ * @author Bilal Ishaq
+ * @email ishaq.bilal@gmail.com
+ */
 @RestController
 @Log4j2
 @RequestMapping("/reward")

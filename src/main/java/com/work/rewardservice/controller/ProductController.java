@@ -9,6 +9,10 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
+/**
+ * @author Bilal Ishaq
+ * @email ishaq.bilal@gmail.com
+ */
 @RestController
 @RequestMapping("/product")
 public class ProductController {
