@@ -27,6 +27,10 @@ For further reference, please consider the following sections:
 
 * [Reward API]
 * (http://localhost:8080/reward/list) GET (List Reward Points of all customers with respect to given date range)
+
+* [Database Scripts Path]
+* src/main/resources/scripts/Db-script.sql
+
 ### Guides
 
 The following guides illustrate how to use some features concretely:
