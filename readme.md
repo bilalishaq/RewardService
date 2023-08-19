@@ -13,19 +13,19 @@
 
 For further reference, please consider the following sections:
 
-* [Order APIs]
+# [Order APIs]
 * (http://{BASE_URL}/order/placeOrder) POST (Place Order and this API will compute reward points)
 * (http://{BASE_URL}/order/{orderId})  GET  (Get Order Details by Order Id)
 
-* [Product APIs]
+# [Product APIs]
 * (http://{BASE_URL}/product) POST (Add Product API)
 * (http://{BASE_URL}/product/{id}) GET (Get Product by Product Id API)
 * (http://{BASE_URL}/product/reduceQuantity/{id}) PUT (Reduce Product Quantity by Product Id and Quantity API)
 
-* [Customer API]
+# [Customer API]
 * (http://{BASE_URL}/customer) POST (Add Customer API)
 
-* [Reward API]
+# [Reward API]
 * (http://{BASE_URL}/reward/list) GET (List Reward Points of all customers with respect to given date range)
 
 ### Database Scripts Path 
@@ -38,7 +38,7 @@ http://{BASE_URL}/swagger-ui/index.html
 
 The following guides illustrate how to use some features concretely:
 
-* [Reward Points Computation Test Cases]
+# [Reward Points Computation Test Cases]
   
 * Reward Points Computation Test Cases are given in Junit5 Test Class RewardServiceImplTest
 
@@ -53,7 +53,8 @@ The following guides illustrate how to use some features concretely:
 *  void ZeroDollarPurchaseShouldCreateZeroPoint()
 *  void NegativeDollarPurchaseShouldCreateIllegalArgumentException()
 
-* Database Scripts Path:- src/main/resources/scripts/Db-script.sql
+# Database Scripts Path:-
+* src/main/resources/scripts/Db-script.sql
 
-* [Developed By Bilal Ishaq, ishaq.bilal@gmail.com] 
+# [Developed By Bilal Ishaq, ishaq.bilal@gmail.com] 
 * https://www.linkedin.com/in/bilalishaq/
