@@ -53,8 +53,5 @@ The following guides illustrate how to use some features concretely:
 *  void ZeroDollarPurchaseShouldCreateZeroPoint()
 *  void NegativeDollarPurchaseShouldCreateIllegalArgumentException()
 
-# Database Scripts Path:-
-* src/main/resources/scripts/Db-script.sql
-
-# [Developed By Bilal Ishaq, ishaq.bilal@gmail.com] 
+* [Developed By Bilal Ishaq, ishaq.bilal@gmail.com] 
 * https://www.linkedin.com/in/bilalishaq/
