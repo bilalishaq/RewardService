@@ -32,7 +32,7 @@ For further reference, please consider the following sections:
 * src/main/resources/scripts/Db-script.sql
 
 ### Swagger Path
-http://{BASE_URL}/swagger-ui/index.html
+* http://{BASE_URL}/swagger-ui/index.html
 
 ### Guides
 
